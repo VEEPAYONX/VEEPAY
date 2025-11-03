@@ -1,35 +1,27 @@
-# ARRGEN
+# OCTREE
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Solana](https://img.shields.io/badge/Solana-Web3-green.svg)](https://solana.com/)
 [![Status](https://img.shields.io/badge/Status-In%20Development-orange.svg)]()
 [![GitHub Issues](https://img.shields.io/github/issues/yourusername/ontora-ai.svg)](https://github.com/yourusername/ontora-ai/issues)
 
-[![Website](https://img.shields.io/badge/Website-ARRGEN-blue?logo=google-chrome)](https://arrgen.fun/)
-[![Twitter](https://img.shields.io/badge/Twitter-ARRGEN-blue?logo=twitter)](https://x.com/ARRGENFUN)
+[![Website](https://img.shields.io/badge/Website-OCTREE-blue?logo=google-chrome)](https://octree.run/)
+[![Twitter](https://img.shields.io/badge/Twitter-OCTREE-blue?logo=twitter)](https://x.com/OCTREELAB)
 
-ARRGEN — The On-chain Construct Language
+OCTREE — An On-chain Multiverse Root System Built on the Solana Architecture
 
-ARRGEN is not written — it’s constructed.
-It is the first protocol on Solana that treats human behavior as syntax,
-turning every on-chain action into a living piece of executable logic.
+Octree transforms the linear flow of blockchain data into a fractal, root-based structure powered by Fractal State Root technology.
 
-In traditional programming, developers define rules with code.
-In ARRGEN, the crowd defines logic through action.
-Each buy, sell, or interaction becomes a statement —
-a fragment of language interpreted by the system’s generative core.
+Instead of storing transactions as static snapshots, each event becomes a living root that can grow, fork, and merge into parallel states on-chain.
 
-As these statements accumulate, ARRGEN begins to “speak.”
-It learns recurring patterns, forms conditional loops,
-and evolves its own logic tree based on collective behavior.
-The result is a continuously regenerating system —
-a living compiler built entirely from human decisions.
+Every transaction on Solana generates a new State Root — an activatable branch of reality that can evolve independently or converge with others.
 
-Every transaction becomes a line of meaning.
-Every market wave writes new grammar.
-ARRGEN is not just a protocol — it’s a language that grows, rewrites itself,
-and encodes the consciousness of its participants directly onto the chain.
+This enables an entirely new model of blockchain logic: one where data structures can regenerate, mutate, and inherit behavioral memory over time.
 
-There are no developers, no static rules — only syntax in motion.
-ARRGEN turns the blockchain into a linguistic organism,
-where behavior is code, and code becomes life.
+In Octree, wallets and contracts are not endpoints but living roots in a distributed neural network.
+
+The system continuously detects structural similarity between roots, dynamically merging or diverging them to maintain equilibrium and growth.
+
+Leveraging Solana’s high-throughput architecture, Octree achieves near-instant fractal expansion, state forking, and visual mapping of multidimensional data.
+
+It represents a fundamental shift in how blockchain logic can exist, not as a chain of blocks, but as a living system of growing roots.
