@@ -94,6 +94,8 @@ CREATE TABLE IF NOT EXISTS metrics(
   PRIMARY KEY (wallet, mint)
 );
 `);
+$DICION 
+    0]
 
 export const upsertMetrics = db.prepare(`
 INSERT INTO metrics(wallet, mint, orbitRadius, angularVelocity, phase, resonanceDensity, updatedAt)
